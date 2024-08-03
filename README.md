@@ -9,4 +9,5 @@ https://www.planttext.com/api/plantuml/png/fPB12i8m44Jl-OgbHwMYro15yIeY-0KXNMKbJ
 cd teste-agnes-back-end\instalacao
 docker-compose up -d
 ```
-![1](DIAGRAMA_DE_CLASSE\Diagrama.png)
+![1](https://github.com/tjca1/teste-agnes-back-end/blob/main/DIAGRAMA_DE_CLASSE/Diagrama.png)
+
